@@ -1,0 +1,10 @@
+1;Ford;Mondeo;czarny;2007;198000;12000;a1.png
+2;Volkswagen;Polo;czarny;2000;229000;5000;a2.png
+3;Nissan;Qashqai;niebieski;2000;288000;4000;a3.png
+4;Nissan;Qashqai;czerwony;2000;342000;3000;a4.png
+5;Ford;Fiesta;czerwony;2000;245000;6000;a5.png
+6;Ford;Fiesta;czerwony;2000;349000;4000;a6.png
+7;Dacia;Sandero;czarny;2000;261000;5000;a7.png
+8;Opel;Corsa;fioletowy;2000;324000;4000;a8.png
+9;Skoda;Octavia;srebrny;2001;243000;5000;a9.png
+10;Skoda;Fabia;zielony;2008;201000;5500;a10.png
